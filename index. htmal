@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>For My Love ❤️</title>
+  <style>
+    body {
+      background-color: #ffe6ee;
+      font-family: 'Georgia', serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+    }
+
+    .card {
+      background-color: #fff0f5;
+      width: 85%;
+      max-width: 700px;
+      padding: 40px;
+      border-radius: 20px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+      position: relative;
+      text-align: center;
+    }
+
+    .rose {
+      font-size: 40px;
+      position: absolute;
+    }
+
+    .rose.top-left { top: -15px; left: -15px; }
+    .rose.top-right { top: -15px; right: -15px; }
+    .rose.bottom-left { bottom: -15px; left: -15px; }
+    .rose.bottom-right { bottom: -15px; right: -15px; }
+
+    h1 {
+      color: #c2185b;
+      margin-bottom: 25px;
+    }
+
+    p {
+      color: #4a2c2a;
+      font-size: 18px;
+      line-height: 1.8;
+    }
+
+    .signature {
+      margin-top: 30px;
+      font-size: 20px;
+      color: #b0003a;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="card">
+    <div class="rose top-left">🌹</div>
+    <div class="rose top-right">🌹</div>
+    <div class="rose bottom-left">🌹</div>
+    <div class="rose bottom-right">🌹</div>
+
+    <h1>For My Future Wife, Amruta ❤️</h1>
+
+    <p>
+      Hey my love,<br><br>
+
+      I don’t know how to put my feelings into words, because no words are enough to describe how much you mean to me. I just want you to know that I love you more than anything. I never imagined that I would find someone like you this year. I thought my life would remain the same, but then you came into my life and changed everything—my future wife, my blessing.<br><br>
+
+      Even though our journey together has just begun, every moment we’ve spent together is deeply precious to me. Those days will always live in my heart. We have shared so much—beautiful laughter, unforgettable memories, and even difficult moments. We faced problems, we felt pain, but we never gave up on each other. And that is what makes our bond so special and strong.<br><br>
+
+      I don’t want this love to be temporary. I want this bond to last forever and end only with our marriage. You are not just a part of my life—you are my whole world, my happiness, my peace. I promise to love you, choose you, and stand by you in every situation.
+    </p>
+
+    <div class="signature">
+      Forever yours,<br>
+      ❤️ Bharat
+    </div>
+  </div>
+
+</body>
+</html>
